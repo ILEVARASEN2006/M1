@@ -1,5 +1,4 @@
-## NAME-ILEVARASDEN S
-## DATE-25-04-2025
+
 ## EX-01-Datatypes-Operators
 
 ## AIM:
